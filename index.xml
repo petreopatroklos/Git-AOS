@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.01" name="Battlescribe" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Age_of_Sigmar.gstz" dataType="gamesystem" dataId="adca-ffc2-ea4a-1a4f" dataName="Age of Sigmar 2.0 Español por Petreopatroklos" dataBattleScribeVersion="2.01" dataRevision="16"/>
+    <dataIndexEntry filePath="AOS_Quebrantahuesoz_(Bonezplitterz)_por_Petreopatroklos.catz" dataType="catalogue" dataId="f714-a441-960d-ac96" dataName="Destrucción - BT Bonezplitterz" dataBattleScribeVersion="2.01" dataRevision="19"/>
+    <dataIndexEntry filePath="AOS_Garras_bestiales(Ogre_Kingdoms)_por_Petreopatroklos.catz" dataType="catalogue" dataId="1d48-2652-c94d-6040" dataName="Destrucción - BT Beastclaw Riders" dataBattleScribeVersion="2.01" dataRevision="16"/>
+    <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="84af-ee8c-e0eb-0dfc" dataName="Orden - (Dispossessed/Ironweld) " dataBattleScribeVersion="2.01" dataRevision="14"/>
+    <dataIndexEntry filePath="AoS_Skavens_Pestilens_por_Petreopatroklos.catz" dataType="catalogue" dataId="c1b5-a22c-bfa1-d7f8" dataName="Caos - BT Skavens Pestilens" dataBattleScribeVersion="2.01" dataRevision="18"/>
+    <dataIndexEntry filePath="Elfos_Silvanos_(Sylvaneth)_por_Petreopatroklos.catz" dataType="catalogue" dataId="fc07-7903-2b9a-d2b7" dataName="Orden - BT Sylvaneth" dataBattleScribeVersion="2.01" dataRevision="25"/>
+    <dataIndexEntry filePath="Stormcast_Eternals_Aos_ESP.catz" dataType="catalogue" dataId="efb4-6207-dbee-6c71" dataName="Orden - BT Stormcast Eternals" dataBattleScribeVersion="2.01" dataRevision="42"/>
+    <dataIndexEntry filePath="Aos_Hombres_Lagarto_(Seraphon)_por_Petreopatroklos.catz" dataType="catalogue" dataId="814e-e118-695e-632c" dataName="Orden - BT Seraphon" dataBattleScribeVersion="2.01" dataRevision="25"/>
+    <dataIndexEntry filePath="Elfos_Silvanos_Aos_ESP.catz" dataType="catalogue" dataId="622a-5772-dc81-cdf9" dataName="Orden - (Wanderers)" dataBattleScribeVersion="2.01" dataRevision="24"/>
+    <dataIndexEntry filePath="El_Imperio_Aos_ESP.catz" dataType="catalogue" dataId="9b82-9aea-2bf5-4dfc" dataName="Orden - (Free People/Arcane/Devoted/Ironweld)" dataBattleScribeVersion="2.01" dataRevision="18"/>
+    <dataIndexEntry filePath="Elfos_Oscuros_Aos_ESP.catz" dataType="catalogue" dataId="373c-9883-1f81-ce8b" dataName="Orden - (Darkling/Serpentis/Scourge/Shadowblades)" dataBattleScribeVersion="2.01" dataRevision="20"/>
+    <dataIndexEntry filePath="Skavens_Aos_ESP.catz" dataType="catalogue" dataId="c9fb-f5b3-d492-b594" dataName="Caos - (Skavens/Eshin/Moulder/Skryre/Verminus/Masterclan)" dataBattleScribeVersion="2.01" dataRevision="22"/>
+    <dataIndexEntry filePath="Escenografia_Aos_ESP.catz" dataType="catalogue" dataId="3774-abe8-9165-c597" dataName="Age of Sigmar Escenografía por Petreopatroklos" dataBattleScribeVersion="2.01" dataRevision="2"/>
+    <dataIndexEntry filePath="La_Horda_de_Tamurkhan_Aos_ESP.catz" dataType="catalogue" dataId="4f5a-9191-0719-088a" dataName="FW Caos - (Tamurkhan´s Horde)" dataBattleScribeVersion="2.01" dataRevision="5"/>
+    <dataIndexEntry filePath="Elegidos_Eternos_(Everchosen)_por_Petreopatroklos.catz" dataType="catalogue" dataId="efb3-f538-81b8-d0f0" dataName="Caos - BT Everchosen" dataBattleScribeVersion="2.01" dataRevision="20"/>
+    <dataIndexEntry filePath="Matadores_de_Fuego_(Fireslayers)_por_Petreopatroklos.catz" dataType="catalogue" dataId="905e-5ba3-ad1e-133e" dataName="Orden - BT Fyreslayers" dataBattleScribeVersion="2.01" dataRevision="19"/>
+    <dataIndexEntry filePath="Demonios_del_Caos_Aos_ESP.catz" dataType="catalogue" dataId="734a-73c3-941d-f1c5" dataName="Caos - (Host of Slaanesh &amp; Daemons)" dataBattleScribeVersion="2.01" dataRevision="16"/>
+    <dataIndexEntry filePath="AOS_Idoneth_Deepkin.catz" dataType="catalogue" dataId="8aff-621c-d33e-bdde" dataName="Orden - BT Idoneth Deepkin" dataBattleScribeVersion="2.01" dataRevision="8"/>
+    <dataIndexEntry filePath="Enanos_del_Caos_Aos_ESP.catz" dataType="catalogue" dataId="a4ec-f626-a1b4-c1a0" dataName="FW Caos - (Chaos Dwarfs)" dataBattleScribeVersion="2.01" dataRevision="8"/>
+    <dataIndexEntry filePath="Orden_-_Legends_Dark_Elves.catz" dataType="catalogue" dataId="bf25-b02c-4c10-f56d" dataName="X Orden Legends - Dark Elves" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Bretonia_Aos_ESP.catz" dataType="catalogue" dataId="9daf-9ce0-92f6-d4fd" dataName="X Orden Legends - Bretonnia" dataBattleScribeVersion="2.01" dataRevision="5"/>
+    <dataIndexEntry filePath="AOS_Discipulos_de_Tzeentch_(Disciples_of_Tzeentch).catz" dataType="catalogue" dataId="3806-428c-94e9-3775" dataName="Caos - BT Disciples of Tzeentch" dataBattleScribeVersion="2.01" dataRevision="26"/>
+    <dataIndexEntry filePath="AOS_Huestes_de_Nurgle_(Chaos_Daemons).catz" dataType="catalogue" dataId="3498-43f0-1309-b0c7" dataName="Caos - BT Maggotking of Nurgle" dataBattleScribeVersion="2.01" dataRevision="16"/>
+    <dataIndexEntry filePath="AOS_Legions_of_Nagash_-_Muerte.catz" dataType="catalogue" dataId="0386-9bb5-0368-d864" dataName="Muerte - BT Legions of Nagash" dataBattleScribeVersion="2.01" dataRevision="12"/>
+    <dataIndexEntry filePath="AOS_Mandibulas_de_Hierro_(Ironjaws)_por_Petreopatroklos.catz" dataType="catalogue" dataId="f680-482e-425c-bbd7" dataName="Destrucción - BT Ironjaws" dataBattleScribeVersion="2.01" dataRevision="22"/>
+    <dataIndexEntry filePath="Hombres_Bestia_Aos_ESP.catz" dataType="catalogue" dataId="5d6a-c8ec-e16f-ef08" dataName="Caos - (Brayherds/Gargants/Monsters/Warherds)" dataBattleScribeVersion="2.01" dataRevision="14"/>
+    <dataIndexEntry filePath="AOS_Espadas_de_khorne.catz" dataType="catalogue" dataId="01b8-6a72-a945-7350" dataName="Caos - BT Blades of Khorne" dataBattleScribeVersion="2.01" dataRevision="34"/>
+    <dataIndexEntry filePath="AOS_Daughters_of_Khaine__(Dark_Elves).catz" dataType="catalogue" dataId="96b4-fc2c-4148-a892" dataName="Orden - BT Daughters of Khaine" dataBattleScribeVersion="2.01" dataRevision="10"/>
+    <dataIndexEntry filePath="Condes_Vampiro_Aos_ESP.catz" dataType="catalogue" dataId="93b8-30e3-f36e-37f4" dataName="Muerte - BT Nighthaunt" dataBattleScribeVersion="2.01" dataRevision="31"/>
+    <dataIndexEntry filePath="Altos_Elfos_Aos_ESP.catz" dataType="catalogue" dataId="19eb-cb5a-54af-2e37" dataName="Orden - (Eldritch/Lion/Draconis/Phoenix/Swifthawk)" dataBattleScribeVersion="2.01" dataRevision="16"/>
+    <dataIndexEntry filePath="Devoracarnes_(Flesheaters)_por_Petreopatroklos.catz" dataType="catalogue" dataId="5e9d-3978-9b59-1bad" dataName="Muerte - BT Flesheaters" dataBattleScribeVersion="2.01" dataRevision="23"/>
+    <dataIndexEntry filePath="Orcos_y_Goblins_Aos_ESP.catz" dataType="catalogue" dataId="b6b3-2d26-02cf-57c8" dataName="Destrucción - (Grots/Greenskinz/Troggoth)" dataBattleScribeVersion="2.01" dataRevision="18"/>
+    <dataIndexEntry filePath="FW_ Monsters_FW.catz" dataType="catalogue" dataId="47aa-14b3-ccd0-71ba" dataName="Destrucción - Monsters FW" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Reyes_Funerarios_Aos_ESP.catz" dataType="catalogue" dataId="d649-a25f-7fd5-72d5" dataName="X Muerte Legends - Tomb Kings" dataBattleScribeVersion="2.01" dataRevision="4"/>
+    <dataIndexEntry filePath="Reinos_Ogros_Aos_ESP.catz" dataType="catalogue" dataId="5ae7-b375-ca24-6ac5" dataName="Destrucción - (Gutbusters/Firebellies/Maneaters)" dataBattleScribeVersion="2.01" dataRevision="17"/>
+    <dataIndexEntry filePath="AOS_Senores_Supremos_Kharadron_(Kharadron_Overlords).catz" dataType="catalogue" dataId="aa72-d155-e1b8-b80e" dataName="Orden - BT Kharadron Overlords" dataBattleScribeVersion="2.01" dataRevision="13"/>
+    <dataIndexEntry filePath="Guerreros_del_Caos_Aos_ESP.catz" dataType="catalogue" dataId="a7ef-afb0-b588-d0e9" dataName="Caos - (Slaves to Darkness/Thunderscorn/Monsters)" dataBattleScribeVersion="2.01" dataRevision="22"/>
+  </dataIndexEntries>
+</dataIndex>
